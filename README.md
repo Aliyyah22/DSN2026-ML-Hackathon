@@ -27,4 +27,4 @@ This project follows a full ML workflow: data understanding, cleaning, explorato
 
 ## Author
 
-Aliyyah22
+Aliyyah Adebayo
