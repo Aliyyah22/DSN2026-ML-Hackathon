@@ -1,10 +1,6 @@
 # DSN2026-ML-Hackathon
 Machine learning solution for the DSN AI Bootcamp Qualification Hackathon 2026 (ML Track), predicting product-store sales using a stacked ensemble of XGBoost, LightGBM, and CatBoost with target encoding.
 
-# DSN2026 ML Hackathon — Sales Prediction
-
-Machine learning solution for the **DSN AI Bootcamp Qualification Hackathon 2026 (ML Track)**, predicting `total_sales` for DSN Mart, a retail chain with stores across different locations and formats in Nigeria.
-
 ## Project Overview
 
 This project follows a full ML workflow: data understanding, cleaning, exploratory data analysis, feature engineering, model comparison, hyperparameter tuning, target encoding, stacking ensembles, error analysis, and final model selection.
